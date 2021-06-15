@@ -1,3 +1,8 @@
+# AIRBNBlite -
+
+### Created using Sanity.io and Next.js
+
+
 # Sanity Clean Content Studio
 
 Congratulations, you have now installed the Sanity Content Studio, an open source real-time content editing environment connected to the Sanity backend.
